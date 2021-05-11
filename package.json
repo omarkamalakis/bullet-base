@@ -1,0 +1,28 @@
+{
+  "name": "bullet-base",
+  "version": "1.0.0",
+  "description": "To-do list and planning web app based on Bullet Journals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarkamalakis/bullet-base.git"
+  },
+  "author": "Gabe Kamalakis",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/omarkamalakis/bullet-base/issues"
+  },
+  "homepage": "https://github.com/omarkamalakis/bullet-base#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "vue": "^3.0.11"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.15",
+    "tailwindcss": "^2.1.2"
+  }
+}
